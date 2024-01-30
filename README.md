@@ -1,5 +1,2 @@
 # TestCI
 
-SSSAAAAAAAA
-dfdfffddddXXXQQQZZZ
-AAA
