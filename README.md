@@ -1,5 +1,3 @@
 # TestCI
 
 AAAAAAZZZXXX
-ZZ
-ZZZ
